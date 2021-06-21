@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h1>
+<h1 align="center">Whitni's World</h1>
 <h2 align="center"> Welcome to Whitni's World. 
 	Whitni's World is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
